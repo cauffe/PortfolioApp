@@ -1,0 +1,10 @@
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\bin\Debug\netcoreapp1.0\PortfolioApp.deps.json
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\bin\Debug\netcoreapp1.0\PortfolioApp.runtimeconfig.json
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\bin\Debug\netcoreapp1.0\PortfolioApp.runtimeconfig.dev.json
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\bin\Debug\netcoreapp1.0\PortfolioApp.dll
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\bin\Debug\netcoreapp1.0\PortfolioApp.pdb
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\obj\Debug\netcoreapp1.0\PortfolioApp.csprojResolveAssemblyReference.cache
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\obj\Debug\netcoreapp1.0\PortfolioApp.AssemblyInfo.cs
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\obj\Debug\netcoreapp1.0\PortfolioApp.dll
+C:\Users\jcherri\Documents\Visual Studio 2015\Projects\Udemy\Core\Live\PortfolioApp\src\PortfolioApp\obj\Debug\netcoreapp1.0\PortfolioApp.pdb

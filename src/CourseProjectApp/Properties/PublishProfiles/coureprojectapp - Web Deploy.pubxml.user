@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAaPiZIp8ziESapU5D52UKxwAAAAACAAAAAAAQZgAAAAEAACAAAAAsjjRjZrN8PhhDI6sVc75WtREEP+r6IDpxS8n4EHbPoQAAAAAOgAAAAAIAACAAAAAJKOp7oO9ayZ89tu48oOpNRp0HP8+zMlpb2vQQ2S0LE4AAAACZCuzcNR2tmetxNIN6RtJyAoYZ5/6k6UFzLp3ot9NaGgsOiSQbrhG59uQuSWxYcgY6aeF9E65IBYb9BXdgaE7EOwX5+FAx/8AGF6gXvvCb4NtiIawoXJI/PJ88g04OPxzgJCCE6hSoU4E4VQBBhfIkXq0i/4JAVqjbq9LeiebfKUAAAADK78Oo0bX3yvseTfCCSffQy2rlXVwcrEDcGzzWuWhB8VXObskhS/QpmLLqDUME1zoy1aUn2bYaiRd+buwRjFmD</EncryptedPassword>
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProductionConnection">
+      <Value>Server=tcp:codeitcoursedb.database.windows.net,1433;Initial Catalog=courseprojectdb;Persist Security Info=False;User ID=codeit247;Password=Johnmona1@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
